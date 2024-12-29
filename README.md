@@ -1,10 +1,10 @@
 ## Lane Detection with Deep Learning
 In this project, I use a deep learning-based approach to improve upon lane detection. My final model uses a fully convolutional neural network to output an image of a predicted lane.
 
-Lastly, check out the wiki page [in this repository](https://github.com/mvirgo/MLND-Capstone/wiki) to see some more of my steps along the way. The separate ["early_steps" branch](https://github.com/mvirgo/MLND-Capstone/tree/early_steps) contains earlier code for previous versions of the neural network as well as files that can extract data for training and perform some automatic labeling.
+Lastly, check out the wiki page [in this repository](https://github.com/ArvindDhage/Lane-Detection-Using-Deep-Learning) to see some more of my steps along the way. The separate ["early_steps" branch](https://github.com/ArvindDhage/Lane-Detection-Using-Deep-Learning) contains earlier code for previous versions of the neural network as well as files that can extract data for training and perform some automatic labeling.
 
-See an early version of the model detecting lane lines with perspective transformed images [here.](https://youtu.be/ZZAgcSqAU0I)
-An early version of my model trained *without* perspective transformed images, i.e. regular road images, can be seen [here!](https://www.youtube.com/watch?v=Vq0vlKdyXnI)
+See an early version of the model detecting lane lines with perspective transformed images [here.](https://youtu.be/W78FYD0rQ_s)
+An early version of my model trained *without* perspective transformed images, i.e. regular road images, can be seen [here!](https://www.youtube.com/watch?v=W78FYD0rQ_s
 
 Lastly, with the finalized fully convolutional model, there are a couple additional videos I made. The first, which is the same video from the above two, has between 10-20% of the frames fed into the mode, as can be seen [here.](https://youtu.be/bTMwF1UoZ68) Additionally, a video made from the Challenge Video from Udacity's Advanced Lane Lines project in the SDCND, where the neural network had **never** seen the video before, can be seen [here.](https://youtu.be/_qwET69bYa8) The model performs fairly robustly on the never-before-seen video, with the only hitch due to the large light difference as it goes under the overpass.
 
